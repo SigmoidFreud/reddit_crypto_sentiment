@@ -10,10 +10,24 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\README.md">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\app.py">
           <value>
             <Attribute>
               <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\sentiment_inference_test.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
